@@ -1,5 +1,5 @@
-hi, i do stuff
+Hi, I just code for fun, nothing much.
 
 ## Links
 - https://www.youtube.com/channel/UCghtDZ3tqJzFTKy-NRywn2A
-- monkey enjoyer#5910 on Discord
+- Land#8770 on Discord
