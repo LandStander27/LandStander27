@@ -1,5 +1,3 @@
 Hi, I just code for fun, nothing much.
 
-## Links
-- https://www.youtube.com/channel/UCghtDZ3tqJzFTKy-NRywn2A
-- Land#8770 on Discord
+[![Discord Presence](https://lanyard.cnrad.dev/api/689560248197054562)](https://discord.com/users/689560248197054562)
